@@ -34,7 +34,7 @@ To play LabEscape, follow these steps:
 Controls
 
 Use the arrow keys to move your character (up, down, left, right).
-Press the Spacebar to use speed boost items.
+Press the Spacebar to attack.
 Encounter monsters automatically triggers battles.
 Collect health packs by moving over them to replenish your health.
 Learn more about the game controls
