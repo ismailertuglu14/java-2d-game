@@ -4,8 +4,6 @@ MazeAdventure - A 2D Maze Escape Game
 
 Welcome to MazeAdventure, a thrilling 2D maze escape game developed in Java. In this game, you'll navigate through a challenging maze, searching for keys to unlock doors, collecting speed boost items, and facing off against menacing monsters.
 
-Table of Contents
-
 ## Game Features
 
 MazeAdventure offers a variety of exciting features that will keep you engaged and entertained:
