@@ -1,15 +1,14 @@
-# LabEscape
-LabEscape - A 2D Maze Escape Game
+# MazeAdventure
+MazeAdventure - A 2D Maze Escape Game
 
-LabEscape Logo
 
-Welcome to LabEscape, a thrilling 2D maze escape game developed in Java. In this game, you'll navigate through a challenging maze, searching for keys to unlock doors, collecting speed boost items, and facing off against menacing monsters.
+Welcome to MazeAdventure, a thrilling 2D maze escape game developed in Java. In this game, you'll navigate through a challenging maze, searching for keys to unlock doors, collecting speed boost items, and facing off against menacing monsters.
 
 Table of Contents
 
 ## Game Features
 
-LabEscape offers a variety of exciting features that will keep you engaged and entertained:
+MazeAdventure offers a variety of exciting features that will keep you engaged and entertained:
 
 - Maze Exploration
 - Key and Door System
@@ -21,7 +20,7 @@ LabEscape offers a variety of exciting features that will keep you engaged and e
 
 ## How to Play
 
-To play LabEscape, follow these steps:
+To play MazeAdventure, follow these steps:
 
 1. **Installation**: See the [Installation](#installation) section for instructions on how to set up the game.
 
@@ -41,7 +40,7 @@ Learn more about the game controls
 
 Contributing
 
-We welcome contributions to LabEscape. If you'd like to contribute, please follow these steps:
+We welcome contributions to MazeAdventure. If you'd like to contribute, please follow these steps:
 
 Fork the repository.
 Create a new branch for your feature or bug fix.
